@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="oyZscRbkc4Mc1Qy_yAr3" />
+          <option name="apiUrl" value="https://gitlab.dataart.com/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.dataart.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
